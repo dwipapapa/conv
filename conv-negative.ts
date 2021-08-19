@@ -1,6 +1,6 @@
 namespace conv {
     //% block
-    export function Convert_to_Negative(num: number) {
+    export function Conv_to_N_P(num: number) {
         return 0 - num
     }
 }
