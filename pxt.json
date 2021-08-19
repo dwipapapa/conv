@@ -10,7 +10,8 @@
         "main.ts",
         "README.md",
         "assets.json",
-        "conv-num.ts"
+        "conv-num.ts",
+        "conv-negative.ts"
     ],
     "testFiles": [
         "test.ts"
