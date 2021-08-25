@@ -1,5 +1,6 @@
 namespace conv {
     //% block
+    // do not use negative numbers
     export function ConvertNumber(num: number) {
         if (num >= 1e+33) {
             return "" + spriteutils.roundWithPrecision(num / 1e+33, 2) + "d"
